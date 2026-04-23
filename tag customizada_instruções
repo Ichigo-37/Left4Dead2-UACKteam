@@ -1,10 +1,10 @@
 tag customizada
 
 Comando                            Resultado
-!tag MeuClan=>>>                  [MeuClan] SeuNome
-!nome NovoNome=>>>                [MeuClan] NovoNome
-!cleartag=>>>>                    Remove só a tag
-!clearnome==>>>>>                  Volta ao nome Steam
+!tag MeuClan                      [MeuClan] SeuNome
+!nome NovoNome                    [MeuClan] NovoNome
+!cleartag                          Remove só a tag
+!clearnome                         Volta ao nome Steam
 
 Comando  (so para admins)           Ação    
 sm_settag <jogador> <tag>          Define tag de outro jogador
