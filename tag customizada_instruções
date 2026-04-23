@@ -6,7 +6,7 @@ Comando                            Resultado
 !cleartag=>>>>                    Remove só a tag
 !clearnome==>>>>>                  Volta ao nome Steam
 
-Comando                            Ação    
+Comando  (so para admins)           Ação    
 sm_settag <jogador> <tag>          Define tag de outro jogador
 sm_cleartag_player <jogador>        Remove tag de outro jogador
 sm_setnome <jogador> <nome>        Define nome de outro jogador
